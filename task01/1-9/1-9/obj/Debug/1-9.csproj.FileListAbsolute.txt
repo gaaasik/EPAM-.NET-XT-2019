@@ -1,0 +1,7 @@
+C:\Users\Гасанов\source\repos\1-9\1-9\bin\Debug\1-9.exe.config
+C:\Users\Гасанов\source\repos\1-9\1-9\bin\Debug\1-9.exe
+C:\Users\Гасанов\source\repos\1-9\1-9\bin\Debug\1-9.pdb
+C:\Users\Гасанов\source\repos\1-9\1-9\obj\Debug\1-9.csproj.CoreCompileInputs.cache
+C:\Users\Гасанов\source\repos\1-9\1-9\obj\Debug\1-9.exe
+C:\Users\Гасанов\source\repos\1-9\1-9\obj\Debug\1-9.pdb
+C:\Users\Гасанов\source\repos\1-9\1-9\obj\Debug\1-9.csprojAssemblyReference.cache
