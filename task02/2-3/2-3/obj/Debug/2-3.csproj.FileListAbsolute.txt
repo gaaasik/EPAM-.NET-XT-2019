@@ -1,0 +1,7 @@
+C:\Users\Гасанов\Source\Repos\gaaasik\EPAM-.NET-XT-2019\2-3\2-3\bin\Debug\2-3.exe.config
+C:\Users\Гасанов\Source\Repos\gaaasik\EPAM-.NET-XT-2019\2-3\2-3\bin\Debug\2-3.exe
+C:\Users\Гасанов\Source\Repos\gaaasik\EPAM-.NET-XT-2019\2-3\2-3\bin\Debug\2-3.pdb
+C:\Users\Гасанов\Source\Repos\gaaasik\EPAM-.NET-XT-2019\2-3\2-3\obj\Debug\2-3.csprojAssemblyReference.cache
+C:\Users\Гасанов\Source\Repos\gaaasik\EPAM-.NET-XT-2019\2-3\2-3\obj\Debug\2-3.csproj.CoreCompileInputs.cache
+C:\Users\Гасанов\Source\Repos\gaaasik\EPAM-.NET-XT-2019\2-3\2-3\obj\Debug\2-3.exe
+C:\Users\Гасанов\Source\Repos\gaaasik\EPAM-.NET-XT-2019\2-3\2-3\obj\Debug\2-3.pdb

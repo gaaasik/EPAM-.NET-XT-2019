@@ -1,0 +1,14 @@
+C:\Users\Гасанов\Source\Repos\gaaasik\EPAM-.NET-XT-2019\2-4\2-4\bin\Debug\2-4.exe.config
+C:\Users\Гасанов\Source\Repos\gaaasik\EPAM-.NET-XT-2019\2-4\2-4\bin\Debug\2-4.exe
+C:\Users\Гасанов\Source\Repos\gaaasik\EPAM-.NET-XT-2019\2-4\2-4\bin\Debug\2-4.pdb
+C:\Users\Гасанов\Source\Repos\gaaasik\EPAM-.NET-XT-2019\2-4\2-4\obj\Debug\2-4.csprojAssemblyReference.cache
+C:\Users\Гасанов\Source\Repos\gaaasik\EPAM-.NET-XT-2019\2-4\2-4\obj\Debug\2-4.csproj.CoreCompileInputs.cache
+C:\Users\Гасанов\Source\Repos\gaaasik\EPAM-.NET-XT-2019\2-4\2-4\obj\Debug\2-4.exe
+C:\Users\Гасанов\Source\Repos\gaaasik\EPAM-.NET-XT-2019\2-4\2-4\obj\Debug\2-4.pdb
+C:\Users\Гасанов\source\repos\task02\2-4\2-4\bin\Debug\2-4.exe.config
+C:\Users\Гасанов\source\repos\task02\2-4\2-4\bin\Debug\2-4.exe
+C:\Users\Гасанов\source\repos\task02\2-4\2-4\bin\Debug\2-4.pdb
+C:\Users\Гасанов\source\repos\task02\2-4\2-4\obj\Debug\2-4.csprojAssemblyReference.cache
+C:\Users\Гасанов\source\repos\task02\2-4\2-4\obj\Debug\2-4.csproj.CoreCompileInputs.cache
+C:\Users\Гасанов\source\repos\task02\2-4\2-4\obj\Debug\2-4.exe
+C:\Users\Гасанов\source\repos\task02\2-4\2-4\obj\Debug\2-4.pdb
