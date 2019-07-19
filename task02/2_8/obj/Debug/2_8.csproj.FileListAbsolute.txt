@@ -1,0 +1,7 @@
+C:\Users\Гасанов\source\repos\2_8\2_8\bin\Debug\2_8.exe.config
+C:\Users\Гасанов\source\repos\2_8\2_8\bin\Debug\2_8.exe
+C:\Users\Гасанов\source\repos\2_8\2_8\bin\Debug\2_8.pdb
+C:\Users\Гасанов\source\repos\2_8\2_8\obj\Debug\2_8.csprojAssemblyReference.cache
+C:\Users\Гасанов\source\repos\2_8\2_8\obj\Debug\2_8.csproj.CoreCompileInputs.cache
+C:\Users\Гасанов\source\repos\2_8\2_8\obj\Debug\2_8.exe
+C:\Users\Гасанов\source\repos\2_8\2_8\obj\Debug\2_8.pdb
