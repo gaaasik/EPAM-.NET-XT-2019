@@ -1,0 +1,7 @@
+C:\Users\Гасанов\source\repos\2-7\2-7\bin\Debug\2-7.exe.config
+C:\Users\Гасанов\source\repos\2-7\2-7\bin\Debug\2-7.exe
+C:\Users\Гасанов\source\repos\2-7\2-7\bin\Debug\2-7.pdb
+C:\Users\Гасанов\source\repos\2-7\2-7\obj\Debug\2-7.csprojAssemblyReference.cache
+C:\Users\Гасанов\source\repos\2-7\2-7\obj\Debug\2-7.csproj.CoreCompileInputs.cache
+C:\Users\Гасанов\source\repos\2-7\2-7\obj\Debug\2-7.exe
+C:\Users\Гасанов\source\repos\2-7\2-7\obj\Debug\2-7.pdb
