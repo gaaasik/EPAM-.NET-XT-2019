@@ -1,0 +1,7 @@
+C:\Users\Гасанов\source\repos\3-2\3-2\bin\Debug\3-2.exe.config
+C:\Users\Гасанов\source\repos\3-2\3-2\bin\Debug\3-2.exe
+C:\Users\Гасанов\source\repos\3-2\3-2\bin\Debug\3-2.pdb
+C:\Users\Гасанов\source\repos\3-2\3-2\obj\Debug\3-2.csprojAssemblyReference.cache
+C:\Users\Гасанов\source\repos\3-2\3-2\obj\Debug\3-2.csproj.CoreCompileInputs.cache
+C:\Users\Гасанов\source\repos\3-2\3-2\obj\Debug\3-2.exe
+C:\Users\Гасанов\source\repos\3-2\3-2\obj\Debug\3-2.pdb
