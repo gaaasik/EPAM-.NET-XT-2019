@@ -1,0 +1,7 @@
+C:\Users\Гасанов\source\repos\3-3\3-3\bin\Debug\3-3.exe.config
+C:\Users\Гасанов\source\repos\3-3\3-3\bin\Debug\3-3.exe
+C:\Users\Гасанов\source\repos\3-3\3-3\bin\Debug\3-3.pdb
+C:\Users\Гасанов\source\repos\3-3\3-3\obj\Debug\3-3.csprojAssemblyReference.cache
+C:\Users\Гасанов\source\repos\3-3\3-3\obj\Debug\3-3.csproj.CoreCompileInputs.cache
+C:\Users\Гасанов\source\repos\3-3\3-3\obj\Debug\3-3.exe
+C:\Users\Гасанов\source\repos\3-3\3-3\obj\Debug\3-3.pdb
