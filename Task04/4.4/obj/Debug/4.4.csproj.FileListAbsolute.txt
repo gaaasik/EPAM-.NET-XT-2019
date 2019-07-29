@@ -1,0 +1,7 @@
+C:\Users\Гасанов\source\repos\4.4\4.4\bin\Debug\4.4.exe.config
+C:\Users\Гасанов\source\repos\4.4\4.4\bin\Debug\4.4.exe
+C:\Users\Гасанов\source\repos\4.4\4.4\bin\Debug\4.4.pdb
+C:\Users\Гасанов\source\repos\4.4\4.4\obj\Debug\4.4.csprojAssemblyReference.cache
+C:\Users\Гасанов\source\repos\4.4\4.4\obj\Debug\4.4.csproj.CoreCompileInputs.cache
+C:\Users\Гасанов\source\repos\4.4\4.4\obj\Debug\4.4.exe
+C:\Users\Гасанов\source\repos\4.4\4.4\obj\Debug\4.4.pdb
