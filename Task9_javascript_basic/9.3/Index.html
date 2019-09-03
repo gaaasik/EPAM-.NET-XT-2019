@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>9.3. Butterfly Control</title>
+    <link rel="stylesheet" href="Style.css">
+</head>
+
+<body>
+    <div class="main">
+        <div class="available">
+            <b>Available</b>
+            <select multiple>
+                <option>Option 1</option>
+                <option>Option 2</option>
+                <option>Option 3</option>
+                <option>Option 4</option>
+			<option>Option 5</option>
+
+            </select>
+        </div>
+        <div class="control">
+            <input type="button" value="&gt;&gt;" data-action="addAllToSelected">
+            <input type="button" value="&gt;" data-action="addToSelected">
+            <input type="button" value="&lt;" data-action="addToAvailable" disabled>
+            <input type="button" value="&lt;&lt;" data-action="addAllToAvailable" disabled>
+        </div>
+        <div class="selected">
+            <b>Selected</b>
+            <select multiple>
+            </select>
+        </div>
+    </div>
+    <div class="main">
+        <div class="available">
+            <b>Available</b>
+            <select multiple>
+                <option>Option 1</option>
+                <option>Option 2</option>
+                <option>Option 3</option>
+                <option>Option 4</option>
+			<option>Option 5</option>
+
+            </select>
+        </div>
+        <div class="control">
+            <input type="button" value="&gt;&gt;" data-action="addAllToSelected">
+            <input type="button" value="&gt;" data-action="addToSelected">
+            <input type="button" value="&lt;" data-action="addToAvailable" disabled>
+            <input type="button" value="&lt;&lt;" data-action="addAllToAvailable" disabled>
+        </div>
+        <div class="selected">
+            <b>Selected</b>
+            <select multiple>
+            </select>
+        </div>
+    </div>
+    <script src="Script.js"></script>
+</body>
+
+</html>
